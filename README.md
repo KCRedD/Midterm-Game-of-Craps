@@ -1,3 +1,3 @@
 # Midterm-Game-of-Craps
 
-Open the file and run all cells
+Open the file in jupyter notebook and run all cells
